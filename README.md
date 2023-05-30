@@ -1,2 +1,2 @@
 # MyTube-Flask-App
-MyTube Flask App was brought to life with the invaluable assistance of ChatGPT, an AI companion that helped us shape and refine the app's functionality. Together, they have created a seamless and user-friendly experience tp create speaking avatars that will inspire both newcomers and experienced users alike.
+MyTube Flask App purpose is to create speaking avatars. It was created brought to life with the invaluable assistance of ChatGPT, an AI companion that helped us shape and refine the app's functionality and Wav2Lip https://github.com/ibtehajali67/wave2lip Together, they have created a seamless and user-friendly experience tp create speaking avatars that will inspire both newcomers and experienced users alike.
